@@ -1,5 +1,5 @@
-import 'package:bizapp/generated/l10n.dart';
-import 'package:bizapp/routar.dart';
+import 'package:newapp/generated/l10n.dart';
+import 'package:newapp/routar.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';

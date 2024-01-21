@@ -1,4 +1,4 @@
-# bizapp
+# newapp
 
 A new Flutter project.
 
